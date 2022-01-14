@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Nitu Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -11,9 +13,12 @@
 
 - 📫 How to reach me **ynitu913@gmail.com**
 
+- ⚡ Fun fact **I think I am Funny XD**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/er-nitu-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="er-nitu-yadav" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucfj28oe-ib95oeiwcbbxbww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfj28oe-ib95oeiwcbbxbww" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mitu_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mitu_123" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/1721067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1721067" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ynitu913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ynitu913" height="30" width="40" /></a>
@@ -25,4 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpy9954&show_icons=true&locale=en&layout=compact" alt="rpy9954" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rpy9954&show_icons=true&locale=en" alt="rpy9954" /></p>
-
