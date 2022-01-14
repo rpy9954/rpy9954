@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAEUb4TQBOs/74NUH1FokFatPpFjgKjdtA/edit)]
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)]
 
 <h1 align="center">Hi 👋, I'm Nitu Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
