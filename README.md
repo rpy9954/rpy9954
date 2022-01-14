@@ -1,4 +1,3 @@
-[![MasterHead](https://www.canva.com/design/DAEUb4TQBOs/74NUH1FokFatPpFjgKjdtA/edit)](https://rpy9954.github.io)
 
 <h1 align="center">Hi 👋, I'm Nitu Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
